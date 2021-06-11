@@ -154,7 +154,7 @@
 
     data() {
       return {
-        API_URL: 'http://localhost:8000/v1/',
+        API_URL: 'https://kidb.mixtures.info/v1/',
         SPECIES: {
           ALL: 'All species',
           HUMAN: 'Human only',
